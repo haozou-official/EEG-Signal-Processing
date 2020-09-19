@@ -1,2 +1,2 @@
 # EEG-Signal-Processing
-Information extraction from EEG.
+Applying DL models for information extraction from EEG signal.
